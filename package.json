@@ -1,0 +1,14 @@
+{
+  "name": "studio-booking-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "White-label шаблон: сайт с онлайн-записью, кабинетами и CRM для сервисного бизнеса",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=22.13" },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
